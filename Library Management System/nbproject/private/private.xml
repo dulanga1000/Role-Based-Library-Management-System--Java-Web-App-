@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/web/dashboard.jsp</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/web/error.jsp</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/web/bookList.jsp</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/src/java/model/User.java</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/src/java/model/Book.java</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/src/java/model/Reservation.java</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/src/java/dao/BookDAO.java</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/src/java/dao/ReservationDAO.java</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/src/java/controller/LogoutServlet.java</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/src/java/controller/BookServlet.java</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/web/viewReservations.jsp</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/src/java/controller/ReservationServlet.java</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/web/addBook.jsp</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/web/login.jsp</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/web/reserveForm.jsp</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/web/searchBook.jsp</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/web/style.css</file>
+            <file>file:/C:/Users/dulan/Documents/NetBeansProjects/Student%20Management%20System/Library%20Management%20System/web/index.html</file>
+        </group>
+    </open-files>
+</project-private>
